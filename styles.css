@@ -1,0 +1,11 @@
+.back 
+{
+    background-color:#f6f6f6;
+}
+hr {
+    border-width: 1px;
+    border-color:1px solid #a7d7f9 ;
+    border-top-style: 1px;
+    width:50%;
+    border-top-style: inset;
+}
